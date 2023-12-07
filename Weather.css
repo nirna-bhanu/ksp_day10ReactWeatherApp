@@ -1,0 +1,24 @@
+
+.bg-image {
+    background-image: url('Wed.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .weather-card {
+    background-color: rgba(255, 255, 255, 0.558);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+  }
+  .card{
+    background-color: rgba(240, 248, 255, 0.561);
+    border-radius: 15px;
+  }
+  #bold{
+   font-weight: 500;
+  }
+  
